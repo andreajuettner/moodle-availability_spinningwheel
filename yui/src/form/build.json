@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_spinningwheel-form",
+  "builds": {
+    "moodle-availability_spinningwheel-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
